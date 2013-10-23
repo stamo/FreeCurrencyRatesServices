@@ -1,0 +1,27 @@
+/* 
+    Document   : main
+    Created on : 2013-9-4, 10:29:10
+    Author     : stamo_000
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body { 
+    background-image: url("../images/background.svg");
+    background-size: cover;
+    margin-left: 120px;
+    color: whitesmoke;
+    font-size: 14pt;
+}
+
+h1 {
+    color: gold;
+}
+
+article {
+    width: 550px;
+    text-align: justify;
+}
+
+
+
